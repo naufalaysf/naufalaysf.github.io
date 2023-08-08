@@ -1,8 +1,8 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: loha
+description: Welcome to Naufal Blog
+slug: DO-CONFIG-1
+date: 2022-03-06 
 image: cover.jpg
 categories:
     - Example Category
